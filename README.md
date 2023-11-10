@@ -19,7 +19,7 @@ Please refer to this Github repository https://github.com/percyliang/brown-clust
 ## Semi-Supervised
 Install the necessarry libraries in order to make sure everything run successfully
 ```
-!pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Download the necessary punkt tokenizer data
@@ -39,7 +39,7 @@ For subsequent steps, you can refer to **sample/Semi-Indonesian.ipynb**
 ## Baseline
 Install the necessarry libraries in order to make sure everything run successfully
 ```
-!pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Download the necessary punkt tokenizer data

@@ -13,4 +13,4 @@ You can find a sample of Raw Data in **sample/input_419055_records_from_cc100_In
 *Note: Must put <?> in the end of the txt file*
 
 ## Brown Clustering
-Please refer to this Github repository percyliang/brown-cluster[https://github.com/percyliang/brown-cluster] 
+Please refer to this Github repository [percyliang/brown-cluster](https://github.com/percyliang/brown-cluster)

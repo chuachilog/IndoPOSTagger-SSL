@@ -1,2 +1,4 @@
-sklearn-crfsuite
 nltk
+scikit-learn
+numpy
+joblib
